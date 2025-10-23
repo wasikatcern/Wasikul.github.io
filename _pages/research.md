@@ -15,7 +15,7 @@ As an experimental particle physicist, I do my research to understand the world 
 
 ### 1. **Anomaly Detection using Unsupervised ML**
 - **Paper**: [PhysRevLett.132.081801](https://arxiv.org/abs/2307.01612)  
-We searched for new physics in the form of anomalous events using a novel anomaly detection technique based on unsupervised machine learning. This was the **first event-based anomaly detection** search of ATLAS, and showed significant improvement in sensitivity across 9 different BSM channels.
+We searched for new physics in the form of anomalous events using a novel anomaly detection technique based on unsupervised machine learning. This was the **first event-based anomaly detection** search of ATLAS/CERN, and showed significant improvement in sensitivity across 9 different BSM channels.
 
 ### 2. **Di-Higgs Boson Search with ML**
 - **Paper**: [arXiv:2504.12418](https://arxiv.org/abs/2504.12418)  
