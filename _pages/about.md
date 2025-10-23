@@ -1,3 +1,10 @@
+---
+layout: single
+title: "About Me"
+permalink: /about/
+author_profile: true
+---
+
 Hello! Welcome to the page! I am Dr. Wasikul Islam, an Experimental Particle Physicist, currently a Scientist at the University of Wisconsin-Madison, USA, and a Physicist at the CERN laboratory in Switzerland, where I work for the ATLAS Collaboration at the Large Hadron Collider (LHC). I am presently based at the SLAC National Accelerator Laboratory, Stanford University, as a Visiting Research Affiliate.
 
 I have been awarded the “Breakthrough Prize in Fundamental Physics 2025” (shared with my ATLAS/CERN colleagues), “Wisconsin Initiative for Science Literacy Award (2024)”, “Postdoc Excellence Award (2023)”, among others. In 2025, I was elected a full member of Sigma Xi, The Scientific Research Honor Society .
