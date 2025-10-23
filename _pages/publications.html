@@ -1,3 +1,4 @@
+
 ---
 layout: archive
 title: "Publications"
@@ -5,32 +6,68 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<!-- Intro Paragraph -->
+<h2>My Publications</h2>
 
-{% include base_path %}
+<p>I have been an author of <strong>500+ peer-reviewed research papers</strong> as part of the ATLAS Collaboration and other projects. 
+You can explore my full publication record on:</p>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<ul>
+  <li><a href="{{site.author.googlescholar}}" target="_blank">Google Scholar</a></li>
+  <li><a href="https://orcid.org/0000-0002-5624-5934" target="_blank">ORCID: 0000-0002-5624-5934</a></li>
+  <li><a href="http://inspirehep.net/author/profile/W.Islam.1" target="_blank">INSPIRE-HEP Profile</a></li>
+</ul>
 
+<p>Below are selected research papers and ATLAS Notes where I made significant contributions:</p>
 
+<!-- Selected Publications List -->
+<h3>Selected Research Papers</h3>
 
+<ul>
+  <li>S.V. Chekanov, W. Islam, N. Luongo — <em>Enhancing Sensitivity for Di-Higgs Boson Searches Using Anomaly Detection and Supervised Machine Learning Techniques</em>, 2025 (<a href="https://arxiv.org/abs/2504.12418">arXiv:2504.12418</a>)</li>
+  <li>Wasikul Islam — <em>WIPUNet: A Physics-inspired Network with Weighted Inductive Biases for Image Denoising</em>, 2025 (<a href="https://arxiv.org/abs/2509.05662">arXiv:2509.05662</a>)</li>
+  <li>CEPC Study Group — <em>CEPC Technical Design Report — Reference Detector</em>, 2025 (<a href="https://arxiv.org/abs/2510.05260">arXiv:2510.05260</a>)</li>
+  <li>Wasikul Islam — <em>Searches for new physics with leptons using the ATLAS detector</em>, 2024, PoS(PIC2024)011</li>
+  <li>ATLAS Collaboration — <em>Search for new phenomena in two-body invariant mass distributions using unsupervised machine learning...</em>, 2024, <a href="https://arxiv.org/abs/2307.01612">PhysRevLett.132.081801</a></li>
+  <li>S. Chekanov, W. Islam, R. Zhang, N. Luongo — <em>ADFilter: A Web Tool for New Physics Searches with Autoencoder-Based Anomaly Detection</em>, 2024 (<a href="https://arxiv.org/abs/2409.03065">arXiv:2409.03065</a>)</li>
+  <li>ATLAS Collaboration — <em>Search for vector-boson resonances decaying into a top quark and a bottom quark...</em>, 2023 (<a href="https://arxiv.org/abs/2308.08521">arXiv:2308.08521</a>)</li>
+  <li>ATLAS Collaboration — <em>Search for new phenomena in multi-body invariant masses...</em>, 2022 (<a href="https://arxiv.org/abs/2211.08945">JHEP07(2023)202</a>)</li>
+  <li>Tulika Bose et al. — <em>Snowmass Topical Report on Physics Beyond the Standard Model</em>, 2022 (<a href="https://arxiv.org/abs/2209.13128">arXiv:2209.13128</a>)</li>
+  <li>W. Islam — <em>Increasing Multilingualism in ATLAS’ Science Communication</em>, ICHEP2022 Proceedings</li>
+  <li>[In Review] W. Islam, A. Schwartzman — <em>Primary Vertex Selection at the HL-LHC</em> (ATL-COM-PHYS-2025-890)</li>
+  <li>[In Review] W. Islam — <em>Searches for Dijet Resonances with the ATLAS Detector</em> (ATL-COM-2025-892)</li>
+</ul>
+
+<hr />
+
+<h3>Books & Others</h3>
+
+<ul>
+  <li><strong>Book:</strong> <em>Memorial Volume for Tai Tsun Wu: A Pioneer of Mathematical and Theoretical Physics</em>, World Scientific Publishing, ISBN: 978-981-98-2190-7.<br/>
+  <strong>Editors:</strong> Sau Lan Wu, Hung Cheng, Wasikul Islam, Barry McCoy, John Myers, Per Osland, Shaojun Sun.</li>
+
+  <li><strong>Book:</strong> <em>Stars are the Witness</em> (in Bangla), Manan Publication, India, ISBN: 978-93-91027-20-9.</li>
+
+  <li><strong>Translated Book:</strong> <em>ATLAS Experiment Colouring Book in Bengali</em>, translated by Wasikul Islam, authored by Katarina Anthony.<br/>
+  (<a href="https://cds.cern.ch/record/2751049" target="_blank">CDS Record</a>)</li>
+
+  <li><strong>Guest Editor:</strong> Special Issue <em>"Symmetry and Asymmetry in Plasma and High Energy Physics"</em> (to be published in 2026, currently open for submission) in the journal <em>Symmetry</em>. [Webpage link forthcoming]</li>
+
+  <li><strong>Snowmass Proposal:</strong> S. Jana, W. Islam, A. Khanov – <em>Probing New Physics with Boosted Di-Higgs Signal using Fat Jet Signature</em>, SNOWMASS21-EF2_EF8-259 (for Snowmass 2021).</li>
+</ul>
+
+<hr />
+
+<h3>Popular Articles</h3>
+
+<ul>
+  <li>“<em>Navigating Anomalies in the Pursuit of New Physics</em>,” for the <a href="http://scifun.org" target="_blank">Wisconsin Initiative for Scientific Literacy</a>, USA (2024).</li>
+
+  <li>“<em>Excitements over restarting the LHC for its Run 3</em>,” in the Physics E-Magazine 2022, Society of Physics Students, University of Kansas, USA.</li>
+
+  <li>“<em>My Beautiful Days at CERN</em>,” published in the CERN newsletter <a href="https://alicematters.web.cern.ch" target="_blank">ALICE Matters</a>, 2015.</li>
+
+  <li>“<em>Mystery of TIME</em>,” published in <em>Physics Bulletin</em>, Department of Physics, Aligarh Muslim University, India (2014).</li>
+</ul>
+
+<hr />
