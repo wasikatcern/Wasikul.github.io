@@ -8,11 +8,7 @@ author_profile: true
 ## My Publications
 
 I have been an author of **500+ peer-reviewed research papers** as part of the ATLAS Collaboration and other projects.  
-You can explore my full publication record on:
-
-- [Google Scholar]({{site.author.googlescholar}})
-- [ORCID: 0000-0002-5624-5934](https://orcid.org/0000-0002-5624-5934)
-- [INSPIRE-HEP Profile](http://inspirehep.net/author/profile/W.Islam.1)
+You can explore my full publication record on [Google Scholar]({{site.author.googlescholar}}), [ORCID: 0000-0002-5624-5934](https://orcid.org/0000-0002-5624-5934), and [INSPIRE-HEP Profile](http://inspirehep.net/author/profile/W.Islam.1).
 
 Below are selected research papers and ATLAS Notes where I made significant contributions:
 
