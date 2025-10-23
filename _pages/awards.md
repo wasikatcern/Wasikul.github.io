@@ -5,6 +5,11 @@ permalink: /awards/
 author_profile: true
 ---
 
+<p align="center">
+  <img src="../images/Wasikul_Breakthrough_Prize.png" alt="Wasikul receiving Breakthrough Prize" width="600">
+</p>
+
+
 ## Selected Awards, Fellowships, and Honors
 
 - 🏆 **Co-recipient of the 2025 Breakthrough Prize in Fundamental Physics**, awarded to the ATLAS Collaboration at CERN.
