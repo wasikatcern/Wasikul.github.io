@@ -24,14 +24,14 @@ repository               : "wasikatcern/wasikatcern.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "Wasikul_headshot.png
+  name             : "Dr. Wasikul Islam"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Particle Physicist at Univ. of Wisconsin, CERN & SLAC"
+  location         : "Stanford, CA, USA"
+  employer         : "University of Wisconsin-Madison"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wasikul.islam@cern.ch" 
 
   # Academic websites
   academia         : # URL
