@@ -39,9 +39,7 @@ Searches for new physics in **3-body and 4-body** invariant masses in isolated l
 
 ### 7. **Phenomenological Studies on Multi-body Invariants**
 - **Papers**:
-  - [Universe 2021, 7(9), 333](https://www.mdpi.com/2218-1997/7/9/333)
-  - [arXiv:2209.13128](https://arxiv.org/abs/2209.13128)
-  - [arXiv:2210.02591](https://arxiv.org/abs/2210.02591)  
+  - [Universe 2021, 7(9), 333](https://www.mdpi.com/2218-1997/7/9/333), [arXiv:2209.13128](https://arxiv.org/abs/2209.13128), [arXiv:2210.02591](https://arxiv.org/abs/2210.02591)  
 These model-independent proposals contributed to **Snowmass 2021** topical reports on BSM physics and collider theory.
 
 ### 8. **Charged Higgs Search (dijet + lepton channel)**
@@ -63,7 +61,7 @@ Developed a new **mistag calibration method** named **Direct Tag** with advisor 
 Currently developing a new ATLAS search using enhanced anomaly detection algorithms with broader final-state coverage.
 
 ### 2. **Vertex, Track, and Jet Pileup Separation for HL-LHC**
-Working with the **SLAC National Lab group** to develop novel tools for **vertex selection, track reconstruction**, and **jet-pileup mitigation** for High-Luminosity LHC and beyond.
+Working with the **SLAC National Lab group** to develop novel tools for **vertex selection, track reconstruction**, and **jet-pileup mitigation** for High-Luminosity LHC and other future collider experiments.
 
 ### 3. **Quantum Machine Learning at LHC**
 Exploring quantum computing platforms for solving high-dimensional ML problems in LHC analyses using quantum circuit-based machine learning models.
