@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p align="center">
-  <img src="../images/Wasikul_Breakthrough_Prize.png" alt="Wasikul receiving Breakthrough Prize" width="600">
+  <img src="../images/Wasikul_Breakthrough_Prize.png" alt="Wasikul receiving Breakthrough Prize" width="500">
 </p>
 
 
