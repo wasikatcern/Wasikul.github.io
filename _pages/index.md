@@ -12,8 +12,8 @@ My research aims to uncover new physics at the LHC by developing cutting‑edge 
 My recent honors include the **Breakthrough Prize in Fundamental Physics-2025 (shared with ATLAS/CERN colleagues)**, **Wisconsin Initiative for Science Literacy Award (2024)**, **Postdoc Excellence Award (2023)**, and election to **Sigma Xi Scientific Research Honor Society (2025)**. I'm an author of **600+ physics papers** and two books (1 in **physics** and 1 in **Bangla poetry**).
 
 My journey spans:
-- Ph.D. in Physics (Oklahoma State University)  
+- Ph.D. in Physics from Oklahoma State University, USA (2021)  
 - Research fellowships and past positions at **Argonne National Lab**, **Fermilab**, and the **University of Wisconsin-Madiosn**.  
-- B.Sc. & M.Sc. in Physics from **India**
+- B.Sc. & M.Sc. in Physics from Aligarh Muslim University, India.
 
 🔍 Learn more about my [research](/research/), [publications](/publications/), [talks](/talks/), and [leadership roles](/leadership/).
