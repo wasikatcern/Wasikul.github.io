@@ -14,8 +14,6 @@ title_separator          : "-"
 name                     : &name "Wasikul Islam, PhD"
 description              : &description "Dr. Wasikul Islam's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://wasikatcern.github.io
- # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wasikatcern/wasikatcern.github.io"
 
@@ -24,7 +22,7 @@ repository               : "wasikatcern/wasikatcern.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Wasikul_headshot.png
+  avatar           : "Wasikul_headshot.png"
   name             : "Dr. Wasikul Islam"
   pronouns         : # example: "she/her"  
   bio              : "Particle Physicist at Univ. of Wisconsin, CERN & SLAC"
@@ -357,3 +355,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+"Fix YAML syntax error in config.yml"
