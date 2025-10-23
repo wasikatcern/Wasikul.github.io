@@ -7,14 +7,14 @@ author_profile: true
 
 ## My Publications
 
-I have been an author of **500+ peer-reviewed research papers** as part of the ATLAS Collaboration and other projects.  
+I have been an author of **600+ peer-reviewed research papers** as part of the ATLAS Collaboration and other projects.  
 You can explore my full publication record on [Google Scholar]({{site.author.googlescholar}}), [ORCID: 0000-0002-5624-5934](https://orcid.org/0000-0002-5624-5934), and [INSPIRE-HEP Profile](http://inspirehep.net/author/profile/W.Islam.1).
 
 Below are selected research papers and ATLAS Notes where I made significant contributions:
 
 ---
 
-### Selected Research Papers
+### A Few Selected Research Papers
 
 - S.V. Chekanov, W. Islam, N. Luongo — *Enhancing Sensitivity for Di-Higgs Boson Searches Using Anomaly Detection and Supervised Machine Learning Techniques*, 2025 ([arXiv:2504.12418](https://arxiv.org/abs/2504.12418))
 - Wasikul Islam — *WIPUNet: A Physics-inspired Network with Weighted Inductive Biases for Image Denoising*, 2025 ([arXiv:2509.05662](https://arxiv.org/abs/2509.05662))
