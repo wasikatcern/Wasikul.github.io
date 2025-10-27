@@ -26,7 +26,7 @@ Amazon link: [https://www.amazon.com/Memorial-Tai-Tsun.../dp/9819821908](https:/
 
 A collection of 50 poems in the Bangla language, published in January 2023 in Kolkata, India. 
 
-Amazon link: [https://www.amazon.com/Memorial-Tai-Tsun.../dp/9819821908](https://www.amazon.in/Nokkhatra-Punja-Sakkhi-Wasikul-Islam/dp/B0DKTHN28C)
+Amazon link: [https://www.amazon.in/Nokkhatra-Punja-Sakkhi-Wasikul-Islam/dp/B0DKTHN28C](https://www.amazon.in/Nokkhatra-Punja-Sakkhi-Wasikul-Islam/dp/B0DKTHN28C)
 
 
 <p align="center">
@@ -42,5 +42,5 @@ Translated a popular science outreach book from ATLAS/CERN into the Bangla langu
 CERN document Link: [https://cds.cern.ch/record/2751049](https://cds.cern.ch/record/2751049/files/ATLAS%20Experiment%20Colouring%20Book%20in%20Bengali%20-%20A4.pdf)
 
 <p align="center">
-  <img src="../images/Wasikul_translation_coloring_book_ATLAS.png" alt="Cover page and title page of the translated book 'ATLAS Experiment Colouring Book in Bengali'" width="500">
+  <img src="../images/Wasikul_translation_coloring_book_ATLAS.png" alt="Cover page and title page of the translated book 'ATLAS Experiment Colouring Book in Bengali'" width="600">
 </p>
