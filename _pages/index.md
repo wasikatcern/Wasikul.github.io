@@ -16,4 +16,4 @@ My journey spans:
 - Research fellowships and past positions at **CERN**, **Argonne National Lab**, **Fermilab**, and the **University of Wisconsin-Madiosn**.  
 - B.Sc. & M.Sc. in Physics from Aligarh Muslim University, India.
 
-🔍 Learn more about my [research](/research/), [publications](/publications/), [talks](/talks/), [awards](/awards/), and [leadership roles](/leadership/).
+🔍 Learn more about my [research](/research/), [publications](/publications/), [books](/books/), [talks](/talks/), [awards](/awards/), and [leadership roles](/leadership/).
