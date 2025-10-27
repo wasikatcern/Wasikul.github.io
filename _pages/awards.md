@@ -28,7 +28,7 @@ author_profile: true
 - 🎓 **INSPIRE-SHE Scholarship (2010–2015)** – Awarded by the Department of Science & Technology (DST), Govt. of India for top 1% rank in Higher Secondary.
 - 🎓 **University Post Graduate Merit Scholarship (2013–2015)** – Department of Physics, Aligarh Muslim University (AMU), India.
 - 🥇 **1st Position in M.Sc. (Physics) 1st Semester Exam (2014)** – AMU, India (Ranked 1st among 50 students).
-- 🥇 **Best Student of the Year Award(2008)** – Non-Residential Category, Sargachi Ramakrishna Mission High School, West Bengal, India.
+- 🥇 **Best Student of the Year Award (2008)** – Non-Residential Category, Sargachi Ramakrishna Mission High School, West Bengal, India.
 
 ---
 
