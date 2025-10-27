@@ -16,19 +16,19 @@ author_profile: true
 - 🎓 **Elected a full member of Sigma Xi, The Scientific Research Honor Society** in 2025.  
 - 🏅 **Wisconsin Initiative for Science Literacy Award (2024)** – University of Wisconsin-Madison, for excellence in public outreach of scientific research.
 - 🥇 **2023 Postdoc Excellence Award** – Postdoctoral Association, University of Wisconsin-Madison.
-- 👨‍🏫 **APS Career Mentoring Fellow (2022)** – Selected by the American Physical Society.
+- 🎓 **APS Career Mentoring Fellow (2022)** – Selected by the American Physical Society.
 - 🥈 **Finalist**, Department of Particles & Fields Grand Slam Competition 2020 – American Physical Society.
-- ✈️ **APS Travel Award (2018)** – Awarded by DPF, American Physical Society, for APS April Meeting 2018, Columbus, Ohio.
-- 🧪 **ANL-ATLAS Graduate Fellowship (2017)** – Argonne National Laboratory, USA, for one-year hardware fellowship (2018).
-- 🧬 **Summer Research Fellowship (2017)** – High Energy Physics Center for Computational Excellence (HEPCCE), Argonne National Lab.
-- 🔬 **Graduate Travel Award (2017)** – Physics Department, OSU, to visit SLAC Laboratory at Stanford.
-- ✈️ **APS Travel Award (2017)** – Awarded by DPF, American Physical Society for APS April Meeting 2017, Washington DC.
-- 🔭 **Summer Internship at CERN (2015)** – Interned in the ALICE Experiment and Accelerator Physics group.
-- 🌍 **Sir Syed Global Scholar Award (2014)** – Sir Syed Education Society of North America.
-- 🧠 **INSPIRE-SHE Scholarship (2010–2015)** – Awarded by the Department of Science & Technology (DST), Govt. of India for top 1% rank in Higher Secondary.
+- 🏅 **APS Travel Award (2018)** – Awarded by DPF, American Physical Society, for APS April Meeting 2018, Columbus, Ohio.
+- 🎓 **ANL-ATLAS Graduate Fellowship (2017)** – Argonne National Laboratory, USA, for one-year hardware fellowship (2018).
+- 🎓 **Summer Research Fellowship (2017)** – High Energy Physics Center for Computational Excellence (HEPCCE), Argonne National Lab.
+- 🏅 **Graduate Travel Award (2017)** – Physics Department, OSU, to visit SLAC Laboratory at Stanford.
+- 🏅 **APS Travel Award (2017)** – Awarded by DPF, American Physical Society for APS April Meeting 2017, Washington DC.
+- 🎓 **Summer Internship at CERN (2015)** – Interned in the ALICE Experiment and Accelerator Physics group.
+- 🎓 **Sir Syed Global Scholar Award (2014)** – Sir Syed Education Society of North America.
+- 🎓 **INSPIRE-SHE Scholarship (2010–2015)** – Awarded by the Department of Science & Technology (DST), Govt. of India for top 1% rank in Higher Secondary.
 - 🎓 **University Post Graduate Merit Scholarship (2013–2015)** – Department of Physics, Aligarh Muslim University (AMU), India.
 - 🥇 **1st Position in M.Sc. (Physics) 1st Semester Exam (2014)** – AMU, India (Ranked 1st among 50 students).
-- 🏅 **Best Student of the Year (2008)** – Non-Residential Category, Sargachi Ramakrishna Mission High School, West Bengal, India.
+- 🥇 **Best Student of the Year Award(2008)** – Non-Residential Category, Sargachi Ramakrishna Mission High School, West Bengal, India.
 
 ---
 
