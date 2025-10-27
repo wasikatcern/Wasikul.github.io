@@ -42,5 +42,5 @@ Translated a popular science outreach book from ATLAS/CERN into the Bangla langu
 CERN document Link: [https://cds.cern.ch/record/2751049](https://cds.cern.ch/record/2751049/files/ATLAS%20Experiment%20Colouring%20Book%20in%20Bengali%20-%20A4.pdf)
 
 <p align="center">
-  <img src="../images/Wasikul_translation_coloring_book_ATLAS.png" alt="Cover page and title page of the translated book 'ATLAS Experiment Colouring Book in Bengali'" width="600">
+  <img src="../images/Wasikul_translation_coloring_book_ATLAS.png" alt="Cover page and title page of the translated book 'ATLAS Experiment Colouring Book in Bengali'" width="550">
 </p>
